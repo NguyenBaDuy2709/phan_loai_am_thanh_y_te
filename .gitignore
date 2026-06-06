@@ -1,0 +1,11 @@
+# Bỏ qua các file cấu hình IDE và file tạm
+.vscode/
+.idea/
+*.out
+*.exe
+*.o
+*.obj
+
+# Bỏ qua các dataset dung lượng lớn
+*.zip
+dataset/
